@@ -1,0 +1,9 @@
+# Eclipse project files:
+.classpath
+pom.xml
+.project
+.settings
+target
+
+# GIT files:
+.git
